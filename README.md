@@ -2,7 +2,7 @@
 
 Sample implementation for supporting OriginByte `AuthList` request signing.
 
-With peer-to-peer transfers becoming increasingly common, it is more important than ever to have a system in place to verify authorized authorities who can grant permission for these transfers. This is where OriginByte's `AuthList` comes in, it allows establishing a set of authorities which are able authorize peer-to-peer transactions by signing transaction requests which can then be executed by the user.
+With testnet around the corner, it is more important than ever to have a system in place to verify authorized entities who can grant permission for peer-to-peer transfers. This is where OriginByte's `AuthList` comes in, it allows establishing a set of authorities which are able authorize peer-to-peer transactions by signing transaction requests which can then be executed by the user.
 
 This library exposes three main functions:
 
