@@ -1,5 +1,5 @@
 {
-  "name": "sign-authlist",
+  "name": "authlist-sign",
   "version": "1.0.0",
   "description": "Sample implementation for supporting OriginByte Authlist request signing",
   "type": "module",

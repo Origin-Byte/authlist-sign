@@ -1,4 +1,4 @@
-# sign-authlist
+# authlist-sign
 
 Sample implementation for supporting OriginByte `AuthList` request signing.
 
