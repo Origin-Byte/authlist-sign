@@ -37,3 +37,6 @@ PRIVATE_KEY = ac5dbb29bea100f5f6382ebcb116afc66fc7b05ff64d2d1e3fc60849504a29f0
 
 Since the keypair is public, wallets and marketplaces will enable users to authorize their own transactions purely on the client-side until a server-side authority flow is setup.
 Once ecosystem adoption occurs such that P2P transactions are relatively accessible, OriginByte will remove this keypair from their `AuthList` making it no longer usable.
+
+`signPermissionless(nft_id, source, destination, epoch): signature` is also provided as an example method for client-side signing.
+Note that an empty nonce is used.
